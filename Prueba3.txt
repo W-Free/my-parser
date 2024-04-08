@@ -1,0 +1,17 @@
+let nombre string;
+function print void (string msg_)
+{
+	put msg_;
+}
+function daTuNombre string (void)
+{
+	put "Pon tu nombre";
+	get nombre;
+}
+daTuNombre();
+let  textoAux  string;textoAux = nombre;
+print
+ (
+ textoAux                                                    
+ )
+ ;

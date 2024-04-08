@@ -1,0 +1,17 @@
+
+
+function resta int (int a, int b)
+{   
+    let c boolean; 
+    let d int;
+
+    d = a-b;
+    c = a<b;
+
+    return a;
+
+	return resta (c,b); //Error
+
+}
+
+

@@ -1,0 +1,202 @@
+<102, > //es un let
+<200, 1> //es un identificador con posicion en la tabla de simbolos: 1
+<012, > //es un string
+<203, > //es un ;
+<102, > //es un let
+<200, 2> //es un identificador con posicion en la tabla de simbolos: 2
+<010, > //es un int
+<203, > //es un ;
+<102, > //es un let
+<200, 3> //es un identificador con posicion en la tabla de simbolos: 3
+<011, > //es un boolean
+<203, > //es un ;
+<200, 3> //es un identificador con posicion en la tabla de simbolos: 3
+<201, > //es un =
+<402, 9> //es una constante con valor 9
+<302, > //es un <
+<204, > //es un (
+<200, 2> //es un identificador con posicion en la tabla de simbolos: 2
+<301, > //es un -
+<402, 333> //es una constante con valor 333
+<205, > //es un )
+<203, > //es un ;
+<101, > //es un function
+<200, 4> //es un identificador con posicion en la tabla de simbolos: 4
+<013, > //es un void
+<204, > //es un (
+<012, > //es un string
+<200, -1> //es un identificador con posicion en la tabla de simbolos: 1
+<202, > //es un ,
+<010, > //es un int
+<200, -2> //es un identificador con posicion en la tabla de simbolos: 2
+<205, > //es un )
+<206, > //es un {
+<104, > //es un put
+<204, > //es un (
+<200, -1> //es un identificador con posicion en la tabla de simbolos: 1
+<205, > //es un )
+<203, > //es un ;
+<102, > //es un let
+<200, -3> //es un identificador con posicion en la tabla de simbolos: 3
+<011, > //es un boolean
+<203, > //es un ;
+<104, > //es un put
+<401, hola> //es una cadena
+<203, > //es un ;
+<104, > //es un put
+<200, 2> //es un identificador con posicion en la tabla de simbolos: 2
+<301, > //es un -
+<402, 3> //es una constante con valor 3
+<203, > //es un ;
+<104, > //es un put
+<200, -2> //es un identificador con posicion en la tabla de simbolos: 2
+<203, > //es un ;
+<103, > //es un get
+<200, -1> //es un identificador con posicion en la tabla de simbolos: 1
+<203, > //es un ;
+<107, > //es un return
+<203, > //es un ;
+<104, > //es un put
+<204, > //es un (
+<402, 13> //es una constante con valor 13
+<301, > //es un -
+<204, > //es un (
+<402, 8> //es una constante con valor 8
+<301, > //es un -
+<402, 3> //es una constante con valor 3
+<205, > //es un )
+<301, > //es un -
+<200, 2> //es un identificador con posicion en la tabla de simbolos: 2
+<205, > //es un )
+<203, > //es un ;
+<207, > //es un }
+<102, > //es un let
+<200, 5> //es un identificador con posicion en la tabla de simbolos: 5
+<012, > //es un string
+<203, > //es un ;
+<101, > //es un function
+<200, 6> //es un identificador con posicion en la tabla de simbolos: 6
+<010, > //es un int
+<204, > //es un (
+<010, > //es un int
+<200, -1> //es un identificador con posicion en la tabla de simbolos: 1
+<202, > //es un ,
+<011, > //es un boolean
+<200, -2> //es un identificador con posicion en la tabla de simbolos: 2
+<205, > //es un )
+<206, > //es un {
+<102, > //es un let
+<200, -3> //es un identificador con posicion en la tabla de simbolos: 3
+<012, > //es un string
+<203, > //es un ;
+<102, > //es un let
+<200, -4> //es un identificador con posicion en la tabla de simbolos: 4
+<011, > //es un boolean
+<203, > //es un ;
+<200, -4> //es un identificador con posicion en la tabla de simbolos: 4
+<201, > //es un =
+<200, -1> //es un identificador con posicion en la tabla de simbolos: 1
+<302, > //es un <
+<402, 5> //es una constante con valor 5
+<203, > //es un ;
+<103, > //es un get
+<200, -3> //es un identificador con posicion en la tabla de simbolos: 3
+<203, > //es un ;
+<105, > //es un if
+<204, > //es un (
+<200, -2> //es un identificador con posicion en la tabla de simbolos: 2
+<303, > //es un &&
+<200, -4> //es un identificador con posicion en la tabla de simbolos: 4
+<205, > //es un )
+<107, > //es un return
+<402, 9> //es una constante con valor 9
+<203, > //es un ;
+<107, > //es un return
+<200, -1> //es un identificador con posicion en la tabla de simbolos: 1
+<301, > //es un -
+<200, 6> //es un identificador con posicion en la tabla de simbolos: 6
+<204, > //es un (
+<200, -1> //es un identificador con posicion en la tabla de simbolos: 1
+<301, > //es un -
+<402, 1> //es una constante con valor 1
+<202, > //es un ,
+<200, 3> //es un identificador con posicion en la tabla de simbolos: 3
+<205, > //es un )
+<203, > //es un ;
+<207, > //es un }
+<200, 5> //es un identificador con posicion en la tabla de simbolos: 5
+<201, > //es un =
+<401, Helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo> //es una cadena
+<203, > //es un ;
+<101, > //es un function
+<200, 7> //es un identificador con posicion en la tabla de simbolos: 7
+<012, > //es un string
+<204, > //es un (
+<013, > //es un void
+<205, > //es un )
+<206, > //es un {
+<105, > //es un if
+<204, > //es un (
+<200, 2> //es un identificador con posicion en la tabla de simbolos: 2
+<302, > //es un <
+<402, 91> //es una constante con valor 91
+<303, > //es un &&
+<200, 3> //es un identificador con posicion en la tabla de simbolos: 3
+<205, > //es un )
+<206, > //es un {
+<200, 4> //es un identificador con posicion en la tabla de simbolos: 4
+<204, > //es un (
+<401, {9}> //es una cadena
+<202, > //es un ,
+<200, 6> //es un identificador con posicion en la tabla de simbolos: 6
+<204, > //es un (
+<402, 0> //es una constante con valor 0
+<202, > //es un ,
+<200, 3> //es un identificador con posicion en la tabla de simbolos: 3
+<205, > //es un )
+<205, > //es un )
+<203, > //es un ;
+<102, > //es un let
+<200, -1> //es un identificador con posicion en la tabla de simbolos: 1
+<010, > //es un int
+<203, > //es un ;
+<200, -1> //es un identificador con posicion en la tabla de simbolos: 1
+<201, > //es un =
+<402, 9> //es una constante con valor 9
+<203, > //es un ;
+<105, > //es un if
+<204, > //es un (
+<200, 3> //es un identificador con posicion en la tabla de simbolos: 3
+<205, > //es un )
+<107, > //es un return
+<200, 5> //es un identificador con posicion en la tabla de simbolos: 5
+<203, > //es un ;
+<207, > //es un }
+<106, > //es un else
+<206, > //es un {
+<107, > //es un return
+<401, > //es una cadena
+<203, > //es un ;
+<207, > //es un }
+<207, > //es un }
+<200, 2> //es un identificador con posicion en la tabla de simbolos: 2
+<201, > //es un =
+<200, 6> //es un identificador con posicion en la tabla de simbolos: 6
+<204, > //es un (
+<200, 2> //es un identificador con posicion en la tabla de simbolos: 2
+<202, > //es un ,
+<200, 3> //es un identificador con posicion en la tabla de simbolos: 3
+<205, > //es un )
+<203, > //es un ;
+<200, 4> //es un identificador con posicion en la tabla de simbolos: 4
+<204, > //es un (
+<401, > //es una cadena
+<202, > //es un ,
+<402, 99> //es una constante con valor 99
+<205, > //es un )
+<203, > //es un ;
+<200, 7> //es un identificador con posicion en la tabla de simbolos: 7
+<204, > //es un (
+<205, > //es un )
+<203, > //es un ;
+<666, EOF>

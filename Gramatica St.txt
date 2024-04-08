@@ -1,0 +1,76 @@
+Terminales = { boolean else function get if id
+int let put return string void = , ; ( ) { } - && ++ <
+lambda entero cadena $ }
+
+NoTerminales = { A P F F1 F2 B C D S E G H I J K L M N O Q T X Y Z } 
+
+Axioma = A
+
+Producciones = {
+
+A -> P
+P -> B P   
+P -> F P   
+P -> lambda
+
+F -> F1 { X }
+F1 -> F2 ( L )
+F2 -> function id J
+
+B -> if ( E ) C   
+C -> { X } D  
+C -> S
+D -> else { X }  
+D -> lambda
+B -> let id K ; 
+B -> S
+
+S -> id = E ;   
+S -> id ++ ;  
+S -> put E ;   
+S -> get id ;  
+S -> return Q ;   
+S -> id ( N ) ;
+
+E -> E && Z      
+E -> Z
+Z -> Z < G 
+Z -> G
+G -> G - H  
+G -> H
+H -> id Y  
+H -> ( E )  
+H -> entero  
+H -> cadena  
+Y -> ( N )
+
+I -> = E  
+I -> lambda
+J -> T  
+J -> void
+K -> T I
+
+L -> T id M  
+L -> void
+M -> , T id M   
+M -> lambda
+
+N -> E O  
+N -> lambda
+O -> , E O  
+O -> lambda
+
+Q -> E  
+Q -> lambda
+T -> string  
+T -> int  
+T -> boolean
+
+X -> B X  
+X -> lambda
+
+Y -> lambda
+
+}
+
+

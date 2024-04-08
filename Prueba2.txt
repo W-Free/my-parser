@@ -1,0 +1,14 @@
+let a int;
+let   b  int  ;
+let bbb boolean ;
+a = 3;
+b=a					    		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 													;
+	let
+		c
+			boolean
+					;
+c = a < b;
+if (c) bbb = bbb &&c;
+a = a - b;
+put a ;
+put b;

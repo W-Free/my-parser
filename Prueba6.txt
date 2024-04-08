@@ -1,0 +1,14 @@
+let a int;
+let   b  int  ;
+a = 3;
+let aaaa int;
+
+let ssss string;
+let ssss boolean; //Error
+
+
+
+
+j = "Soy una cadena chiquita"; //Error
+
+b = 99999;//Error

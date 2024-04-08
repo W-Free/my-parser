@@ -1,0 +1,18 @@
+let   b  int  ;
+let bbb boolean ;
+a = 2;
+let aaaa int;
+let ssss string;
+
+function resta int (int a, int b){
+	let j string;
+	j = "BLABLA";
+	return a-b;
+}
+
+function resta2 int (int, boolean){ //Error
+	let j string;
+	j = "BLABLA";
+	return a-b;
+}
+

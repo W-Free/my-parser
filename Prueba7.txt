@@ -1,0 +1,19 @@
+let texto string;
+function alert void(string msg)
+{   let  b int;
+    let c boolean;
+    a = 18;
+    b = 9;
+    c = a<b;
+	put msg;
+	return a; //Error
+}
+
+function munich void() //Error
+{   let a int;
+    a = 9; 
+	
+	get texto;
+}
+
+

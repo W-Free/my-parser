@@ -1,0 +1,13 @@
+CONTENIDOS DE LA TABLA # 100 :
+* LEXEMA : 'a'
+
+* LEXEMA : 'b'
+
+* LEXEMA : 'bbb'
+
+* LEXEMA : 'aaaa'
+
+* LEXEMA : 'ssss'
+
+* LEXEMA : 'bbbb'
+

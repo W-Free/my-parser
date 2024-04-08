@@ -1,0 +1,50 @@
+// No se debe cambiar el ejemplo hasta que lo indique el profesor /
+let s       string ;let  a int;
+let bb boolean ;
+
+bb= 
+9 < (a - 333);
+
+function gett void (string s, int gett)	
+{
+	put(s);
+	let    _s boolean;
+	put "hola";
+	put a -3;
+	put gett;	get s;
+	return ;
+	put (013 - (8 -3)-a);
+}
+
+let  _s string;
+
+function RR int (int n, boolean b)
+{
+	let kk string ;
+	let	log	boolean;
+	log= n < 5 ;
+	get kk;
+	if (b && log)	return 9;
+	return n - RR (n - 1, bb);	
+}
+
+
+_s = "Helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo";
+
+
+
+function  cadena string (void)
+{
+	if (a < 000091 && bb) 
+	{gett ("{9}", RR(0, bb));
+		let			xx	int;
+		xx=9;
+		if (bb) return _s;
+	}
+	else      
+		{return "";}}
+
+
+	a= RR (a, bb);
+	gett ("",99);
+	 cadena();

@@ -1,0 +1,13 @@
+falsefalse<102, > //es un let
+falsefalse<200, 1> //es un identificador con posicion en la tabla de simbolos:1
+falsefalse<010, > //es un int
+falsefalse<203, > //es un ;
+falsefalse<102, > //es un let
+falsefalse<200, 2> //es un identificador con posicion en la tabla de simbolos:2
+falsefalse<010, > //es un int
+falsefalse<203, > //es un ;
+falsefalse<102, > //es un let
+falsefalse<200, 3> //es un identificador con posicion en la tabla de simbolos:3
+falsefalse<010, > //es un int
+falsefalse<203, > //es un ;
+falsefalse

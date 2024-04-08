@@ -1,0 +1,17 @@
+let a int;
+let   b  int  ;
+let j string;
+let bbb boolean ;
+a = 33
+				    		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 													;
+let c
+boolean;
+c = a < b;
+if (abc <0) { //NO es error
+   
+}else{
+    jj=ppp; //NO es error	
+    let hola int;
+    let if boolean; //Error
+}
+

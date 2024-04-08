@@ -1,0 +1,78 @@
+//kk= gett (_s, 9);
+
+	a= 999 - 88 - 3;
+	return "";
+	}
+	function cadena2 string (void)
+{
+
+
+
+	//RR = 11;
+
+	//s = "+++++Helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo";
+	put "hola";
+	//put cadena();
+	//a= RR (5, kk, kk);
+
+	//kk= gett (_s, 9);
+
+	a= 999 - 88 - 3;
+	return "";
+	}
+
+
+
+
+function cadena string (void)
+{
+
+
+
+	//RR = 11;
+
+	//s = "+++++Helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooo";
+	put "hola";
+	//put cadena();
+
+	let  kk boolean;
+	a= RR (5, kk);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																		

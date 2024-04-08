@@ -1,0 +1,24 @@
+Follow(A) = $
+Follow(P) = $
+Follow(B) = {$, if, let, id, put, get, return, function, "{", "}"} //cambio
+Follow(F) = {$, if, let, id, put, get, return, function}
+Follow(F1) = {"{"}
+Follow(F2) = (
+Follow(C) = {$, if, let, id, put, get, return, function, "{", "}"} //cambio
+Follow(D) = {$, if, let, id, put, get, return, function, "{", "}"}  //cambio
+Follow(S) = {$, if, let, id, put, get, return, function, "{", "}"} //cambio
+Follow(E) = {;, &&, ), ","(first de O)}
+Follow(Z) = {;, &&, ), <, ","(first de O) } 
+Follow(G) = {;, &&, ), <, ","(first de O), - }
+Follow(H) = {;, &&, ), <, ","(first de O), -} 
+Follow(I) = ;
+Follow(J) = (
+Follow(K) = ;
+Follow(L) = )
+Follow(M) = ) ("Follow de L")
+Follow(N) = )
+Follow(O) = ) ("Follow de N")
+Follow(Q) = ;
+Follow(T) = {id, =, ";" (Follow de K), ( (Follow de J)}
+Follow(X) = {"}"}
+Follow(Y) = {(Follow de H) }

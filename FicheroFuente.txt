@@ -1,0 +1,17 @@
+let a    int   ;
+let b     int  ;
+let number int ;
+
+a=98;
+b=214;
+
+function comparador boolean (int num1, int num2)
+{
+    return num1-100<num2;
+}
+
+
+if(comparador(a,b) && comparador(a,b)){
+    a++;
+    b = b-a;
+}
