@@ -1,4 +1,3 @@
-// No se debe cambiar el ejemplo hasta que lo indique el profesor /
 let s       string ;let  a int;
 let bb boolean ;
 

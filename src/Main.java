@@ -4,7 +4,7 @@ public class Main {
 	
 	public static void main(String[] args){
 		
-		String codigoFuente = "Ej2.txt";
+		String codigoFuente = "ej2.txt";
 		String ficheroToken = "FicheroToken.txt";
 		String ficheroTS = "FicheroTS.txt";
 		String ficheroParse = "FicheroParse.txt";
